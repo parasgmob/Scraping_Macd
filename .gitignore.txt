@@ -1,0 +1,4 @@
+mtk_frontend/
+screenshot/
+mtk_task_backend/*__pycache__
+mtk_task_backend/.env
